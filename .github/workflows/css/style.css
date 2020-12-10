@@ -1,0 +1,10 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+video {
+	position: 50vh;
+	min-width: 80%;
+	min-height: 80%;
+}
